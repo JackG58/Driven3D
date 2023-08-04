@@ -1,0 +1,2 @@
+export const airTableApiKey = 'pat0XGxwMz9kPL0mv.d7b8bdb4eadd03b2cf4108d7cfd37b01e4f525052c13fdfacd5f6090af53b869'
+export const airTableWorkSpaceGuid = 'appAGxlauPhf3DbOk'
